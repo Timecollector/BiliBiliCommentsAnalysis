@@ -1,0 +1,2 @@
+# BiliBiliCommentsAnalysis
+对b站弹幕、评论进行爬虫，然后使用Word2Vec模型将其转化为词向量进行分析
