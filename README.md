@@ -80,4 +80,6 @@ array([-1.2107437 , -0.1033226 ,  1.9818361 ,  0.03519016, -0.01217345,
 
 ![fig1](https://github.com/Timecollector/BiliBiliCommentsAnalysis/blob/main/fig1.png)
 
+PS：可视化部分参考了**B站up主 五连单排一班** 的教学视频，她的b站主页为：https://space.bilibili.com/81480422/?spm_id_from=333.999.0.0
+
 **但是，从图中可以看到，其实部分相关的词语并没有距离特别近，因此还有待进一步优化，主要问题可能是前面的分词中还有大量的无效词等等**
